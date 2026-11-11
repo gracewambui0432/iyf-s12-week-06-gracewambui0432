@@ -88,3 +88,4 @@ form.addEventListener("submit", (e) => {
 });
 
 loadHistory();
+
