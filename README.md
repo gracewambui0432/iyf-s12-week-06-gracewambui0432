@@ -33,6 +33,7 @@ At first async was very confusing for me. I kept asking why `setTimeout` with 0 
 - Loads Nairobi by default so the page is not empty
 
 ## Project Structure
+```
 iyf-s12-week-06-gakuruclaire39-cmd/
 ├── daily-challenges.js    # Day 1-5 challenges
 ├── async-practice.js      # Lesson 11
@@ -41,6 +42,8 @@ iyf-s12-week-06-gakuruclaire39-cmd/
 ├── index.html
 ├── style.css
 └── README.md
+```
+
 ## How to Run
 
 1. Clone this repo:
