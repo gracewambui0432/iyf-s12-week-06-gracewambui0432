@@ -32,6 +32,15 @@ At first async was very confusing for me. I kept asking why `setTimeout` with 0 
 - Click on a recent city to search again
 - Loads Nairobi by default so the page is not empty
 
+## Project Structure
+iyf-s12-week-06-gakuruclaire39-cmd/
+├── daily-challenges.js    # Day 1-5 challenges
+├── async-practice.js      # Lesson 11
+├── app.js                 # Weather Dashboard
+├── config.js
+├── index.html
+├── style.css
+└── README.md
 ## How to Run
 
 1. Clone this repo:
@@ -46,6 +55,6 @@ I also got Cannot set properties of null (innerHTML) because I used the same JS 
 Another problem was top-level await SyntaxError, I wrapped it in an async main() function. For weather icons I had to build the URL like https://openweathermap.org/img/wn/${icon}@2x.png.
 
 ## Live Demo
-View Weather DashboardView Async Practice - I added this to the live demo to see my async-practice.js in the console and to check for errors in the codeView User Directory
+View Weather DashboardView Async Practice - I added this to the live demo to see my async-practice.js in the console and to check for errors in the codeView User Directory:https://gracewambui0432.github.io/iyf-s12-week-06-gracewambui0432/
 
  
