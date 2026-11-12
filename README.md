@@ -37,6 +37,7 @@ At first async was very confusing for me. I kept asking why `setTimeout` with 0 
 1. Clone this repo:
 ```bash
 git clone https://github.com/gracewambui0432/iyf-s12-week-06-gracewambui0432.git
+```
 
 ## Challenges Faced
 I had many errors this week.First I got a SyntaxError: unexpected token: numeric literal in async-practice.js:208 - it was because I pasted a heading like 12.3 POST without // in front.
